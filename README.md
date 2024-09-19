@@ -15,12 +15,15 @@ Moreover, I followed Page Object Model. You can find the pageobjects.cs file in 
         Right click on the file "Task 01_1_2 : Automating two test cases" and run it.
         You will get the result of both test scenarios of that file
         You can see the results as below:
-        https://github.com/AIKhan099/Next-Basket/blob/main/image.png
-        https://github.com/AIKhan099/Next-Basket/blob/main/image-1.png
+        ![Alt text](image.png)
+        ![Alt text](image-1.png)
 
 # Task 2
     Open the collection in Postman.
     Go to the POST-Create-Booking file.
     Open the Test tab, you will find the code which is verifying that the id of the new booking is present in the response of GetBookingIds and also verifying the status code as well.
+
+    FOr reference, you can see the following image:
+    ![Alt text](image-2.png)
     
     

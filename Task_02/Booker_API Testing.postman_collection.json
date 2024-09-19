@@ -1,9 +1,8 @@
 {
 	"info": {
-		"_postman_id": "a43ac12f-e6bf-42bb-b503-aa0326aadb11",
+		"_postman_id": "16a2613b-dde7-4635-98e8-ca5b92ea6823",
 		"name": "Restful Booker API Testing",
-		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
-		"_exporter_id": "15423087"
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
@@ -70,6 +69,7 @@
 					"listen": "test",
 					"script": {
 						"exec": [
+							"\r",
 							"pm.test(\"Status code is 200\", function () {\r",
 							"    pm.response.to.have.status(200);\r",
 							"});\r",
@@ -77,25 +77,21 @@
 							"\r",
 							"console.log(bookingId)\r",
 							"\r",
-							"    const response = await pm.sendRequest({\r",
+							"pm.test(\"Verify the new booking ID is present in the response\", async function () {\r",
+							"    const response2 =  await pm.sendRequest({\r",
 							"        url: \"https://restful-booker.herokuapp.com/booking\",\r",
 							"        method: \"GET\"\r",
 							"    });\r",
-							"\r",
-							"    console.log(response.json());\r",
-							"    \r",
-							"\r",
-							"\r",
-							"const jsonData = response.json()\r",
-							"pm.test(\"Verify the new booking ID is present in the response\", function () {\r",
-							"     const bookingIds = jsonData.map(b => b.bookingid);\r",
-							"     pm.expect(bookingIds).to.include(parseInt(bookingId));\r",
+							"    const jsonData = await response2.json()\r",
+							"      console.log(response2.json());\r",
+							"     const bookingIds = await jsonData.map(b => b.bookingid);\r",
+							"     await pm.expect(bookingIds).to.include(parseInt(bookingId));\r",
 							" });\r",
+							"\r",
 							"\r",
 							""
 						],
-						"type": "text/javascript",
-						"packages": {}
+						"type": "text/javascript"
 					}
 				}
 			],
