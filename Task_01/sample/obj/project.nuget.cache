@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eZ7SmUzYHZg4UZerCKTtEjt/0Cyp0cPWiXLpJTNMNC5h7DrU+3Ez6bCOa7yOKoKAYDmxzdS0ZYOojuv8M1Np8w==",
+  "dgSpecHash": "5Q4P0wlldhfMlyX96edWEQIqC0IeNRTkN8w13tV9wMYVseQHE2EhfaIREy3zlnsQAcfIuyhGt1i2GOdZuc6OzQ==",
   "success": true,
-  "projectFilePath": "F:\\JOB-PROJECTS\\next\\sample\\sample.csproj",
+  "projectFilePath": "F:\\JOB-PROJECTS\\Next-Basket\\Task_01\\sample\\sample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Intel\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Intel\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

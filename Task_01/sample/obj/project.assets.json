@@ -5917,11 +5917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\JOB-PROJECTS\\next\\sample\\sample.csproj",
+      "projectUniqueName": "F:\\JOB-PROJECTS\\Next-Basket\\Task_01\\sample\\sample.csproj",
       "projectName": "sample",
-      "projectPath": "F:\\JOB-PROJECTS\\next\\sample\\sample.csproj",
+      "projectPath": "F:\\JOB-PROJECTS\\Next-Basket\\Task_01\\sample\\sample.csproj",
       "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
-      "outputPath": "F:\\JOB-PROJECTS\\next\\sample\\obj\\",
+      "outputPath": "F:\\JOB-PROJECTS\\Next-Basket\\Task_01\\sample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
