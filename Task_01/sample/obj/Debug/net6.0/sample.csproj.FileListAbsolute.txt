@@ -1,0 +1,245 @@
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\LivingDoc.Dtos.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\testhost.exe
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\testhost.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\nunit.engine.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\nunit.engine.api.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\nunit.engine.core.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\sample.deps.json
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\sample.runtimeconfig.json
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\sample.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\sample.pdb
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\BoDi.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\FluentAssertions.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Gherkin.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\nunit.framework.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\WebDriver.Support.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\WebDriver.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\courses\specflow training\Project\sample\sample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.csproj.AssemblyReference.cache
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.GeneratedMSBuildEditorConfig.editorconfig
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.AssemblyInfoInputs.cache
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.AssemblyInfo.cs
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.csproj.CoreCompileInputs.cache
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.csproj.CopyComplete
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.dll
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\refint\sample.dll
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.pdb
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\sample.genruntimeconfig.cache
+F:\courses\specflow training\Project\sample\sample\obj\Debug\net6.0\ref\sample.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\LivingDoc.Dtos.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\testhost.exe
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\testhost.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\nunit.engine.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\nunit.engine.api.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\nunit.engine.core.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\sample.deps.json
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\sample.runtimeconfig.json
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\sample.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\sample.pdb
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\BoDi.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\FluentAssertions.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Gherkin.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\nunit.framework.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\WebDriver.Support.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\WebDriver.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.csproj.AssemblyReference.cache
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.GeneratedMSBuildEditorConfig.editorconfig
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.AssemblyInfoInputs.cache
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.AssemblyInfo.cs
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.csproj.CoreCompileInputs.cache
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.csproj.CopyComplete
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.dll
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\refint\sample.dll
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.pdb
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\sample.genruntimeconfig.cache
+F:\JOB-PROJECTS\next\sample\obj\Debug\net6.0\ref\sample.dll
+F:\JOB-PROJECTS\next\sample\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
