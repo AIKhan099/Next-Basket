@@ -18,4 +18,9 @@ Moreover, I followed Page Object Model. You can find the pageobjects.cs file in 
         ![Alt text](image.png)
         ![Alt text](image-1.png)
 
-
+# Task 2
+    Open the collection in Postman.
+    Go to the POST-Create-Booking file.
+    Open the Test tab, you will find the code which is verifying that the id of the new booking is present in the response of GetBookingIds and also verifying the status code as well.
+    
+    
