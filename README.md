@@ -15,7 +15,7 @@ Moreover, I followed Page Object Model. You can find the pageobjects.cs file in 
         Right click on the file "Task 01_1_2 : Automating two test cases" and run it.
         You will get the result of both test scenarios of that file
         You can see the results as below:
-        ![Alt text](image.png)
-        ![Alt text](image-1.png)
+        [![Alt text](image.png)](https://github.com/AIKhan099/Next-Basket/blob/main/image.png)
+        [![Alt text](image-1.png)](https://github.com/AIKhan099/Next-Basket/blob/main/image-1.png)
 
 
